@@ -26,10 +26,12 @@ Qwen3-0.6B-Base
 ## 当前状态
 
 - [x] 训练全部完成，最终权重已归档（C-Eval 41.83% ± 1.33）
+- [x] 训练代码与完整配方公开（见 [RECIPE.md](RECIPE.md)）
+- [x] 权重发布：[huggingface.co/shiershuihesaixiliya/qingyi-kda-0.6b](https://huggingface.co/shiershuihesaixiliya/qingyi-kda-0.6b)
 - [ ] 技术报告 / 论文（workshop 版：接口伤诊断学）
-- [ ] 训练代码与配方公开
-- [ ] 权重发布（HuggingFace）
 - [ ] 本地部署指南（AstrBot + HybridKDACache）
+
+**隐私说明**：`scripts/` 中的身份探针示例使用占位符（`123456789`）；发布权重中的身份设定含真实号码，系作者有意为之（见模型卡）。原始聊天数据不公开——`data/` 涉及群友隐私，仅公开数据配方与构建脚本。
 
 ## License
 
