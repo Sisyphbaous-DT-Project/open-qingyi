@@ -1,10 +1,13 @@
 # open-qingyi — QOSP（Qingyi Open Source Project / 开源清漪计划）
 
+**Author / 作者**: Ronglong Bao — [islonglongy@qq.com](mailto:islonglongy@qq.com)
+
 > 把全注意力模型"做手术"转成 KDA 混合架构，再把能力和人格一点点训回来的完整配方——三代手术、五次范式迭代、全部失败与诊断记录同步公开。
 
 **QINGYI-KDA-0.6B**：以 Qwen3-0.6B-Base 为基座，将 28 层全注意力中的 21 层替换为 KDA（Kimi Delta Attention）线性注意力层，保留 7 层原始 GQA，经分层对齐、端到端知识蒸馏、格式专项、人格 SFT 与 DPO 抛光得到的混合架构模型（657.5M 参数）。
 
 - 权重：[huggingface.co/shiershuihesaixiliya/qingyi-kda-0.6b](https://huggingface.co/shiershuihesaixiliya/qingyi-kda-0.6b)
+- 论文 preprint（DOI）：[10.5281/zenodo.21722356](https://doi.org/10.5281/zenodo.21722356)
 - 技术报告（v1→v3 全记录）：[TECH_REPORT.md](TECH_REPORT.md)
 - 逐步复现配方：[RECIPE.md](RECIPE.md)
 

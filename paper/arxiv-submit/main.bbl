@@ -1,0 +1,97 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Chen et~al.(2026)Chen, Thai, Zhou, Zhang, Shen, Wang, Xiao, Han, and
+  Liu}]{chen2026halo}
+Yingfa Chen, Zhen~Leng Thai, Zihan Zhou, Zhu Zhang, Xingyu Shen, Shuo Wang,
+  Chaojun Xiao, Xu~Han, and Zhiyuan Liu. 2026.
+\newblock Hybrid linear attention done right: Efficient distillation and
+  effective architectures for extremely long contexts.
+\newblock arXiv:2601.22156.
+
+\bibitem[{Gao et~al.(2024)Gao, Tow, Abbasi, Biderman, Black, DiPofi, Foster,
+  Golding, Hsu, Le~Noac'h, Li, McDonell, Muennighoff, Ociepa, Phang, Reynolds,
+  Schoelkopf, Skowron, Sutawika, Tang, Thite, Wang, Wang, and
+  Zou}]{eval-harness}
+Leo Gao, Jonathan Tow, Baber Abbasi, Stella Biderman, Sid Black, Anthony
+  DiPofi, Charles Foster, Laurence Golding, Jeffrey Hsu, Alain Le~Noac'h,
+  Haonan Li, Kyle McDonell, Niklas Muennighoff, Chris Ociepa, Jason Phang,
+  Laria Reynolds, Hailey Schoelkopf, Aviya Skowron, Lintang Sutawika, and 5
+  others. 2024.
+\newblock A framework for few-shot language model evaluation.
+\newblock \url{https://zenodo.org/records/12608602}.
+
+\bibitem[{Hendrycks et~al.(2021)Hendrycks, Burns, Basart, Zou, Mazeika, Song,
+  and Steinhardt}]{hendrycks2021mmlu}
+Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn
+  Song, and Jacob Steinhardt. 2021.
+\newblock Measuring massive multitask understanding.
+\newblock In \emph{Proceedings of ICLR}.
+
+\bibitem[{Hinton et~al.(2015)Hinton, Vinyals, and Dean}]{hinton2015distilling}
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. 2015.
+\newblock Distilling the knowledge in a neural network.
+\newblock arXiv:1503.02531.
+
+\bibitem[{Huang et~al.(2023)Huang, Bai, Zhu, Zhang, Zhang, Su, Liu, Lv, Zhang,
+  Lei, Fu, Sun, and He}]{huang2023ceval}
+Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su,
+  Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and
+  Junxian He. 2023.
+\newblock {C-Eval}: A multi-level multi-discipline chinese evaluation suite for
+  foundation models.
+\newblock In \emph{Proceedings of NeurIPS Datasets and Benchmarks}.
+
+\bibitem[{Katharopoulos et~al.(2020)Katharopoulos, Vyas, Pappas, and
+  Fleuret}]{katharopoulos2020transformers}
+Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, and Fran{\c{c}}ois
+  Fleuret. 2020.
+\newblock Transformers are {RNN}s: Fast autoregressive transformers with linear
+  attention.
+\newblock In \emph{Proceedings of ICML}.
+
+\bibitem[{Kostelec and Guo(2026)}]{kostelec2026gendistill}
+Juan~Gabriel Kostelec and Qinghai Guo. 2026.
+\newblock When perplexity lies: Generation-focused distillation of hybrid
+  sequence models.
+\newblock arXiv:2603.26556v2.
+\newblock Huawei Zurich Research Center; ACS Lab, Huawei Technologies.
+
+\bibitem[{Li et~al.(2023)Li, Zhang, Koto, Yang, Zhao, Gong, Duan, and
+  Baldwin}]{li2023cmmlu}
+Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, Hai Zhao, Yeyun Gong, Nan
+  Duan, and Timothy Baldwin. 2023.
+\newblock {CMMLU}: Measuring massive multitask language understanding in
+  chinese.
+\newblock arXiv:2306.09212.
+
+\bibitem[{{Moonshot AI}(2025)}]{kimilinear}
+{Moonshot AI}. 2025.
+\newblock Kimi linear: An expressive, efficient attention architecture.
+\newblock arXiv:2510.26692.
+
+\bibitem[{{Qwen Team}(2025)}]{qwen3}
+{Qwen Team}. 2025.
+\newblock Qwen3 technical report.
+\newblock arXiv:2505.09388.
+
+\bibitem[{Rafailov et~al.(2023)Rafailov, Sharma, Mitchell, Ermon, Manning, and
+  Finn}]{rafailov2023dpo}
+Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher~D.
+  Manning, and Chelsea Finn. 2023.
+\newblock Direct preference optimization: Your language model is secretly a
+  reward model.
+\newblock In \emph{Proceedings of NeurIPS}.
+
+\bibitem[{Yang and Kautz(2024)}]{yang2024gated}
+Songlin Yang and Jan Kautz. 2024.
+\newblock Gated delta networks: Improving {M}amba2 with delta rule.
+\newblock \emph{arXiv preprint arXiv:2412.06464}.
+
+\bibitem[{Yang and Zhang(2024)}]{fla}
+Songlin Yang and Yu~Zhang. 2024.
+\newblock fla: A triton-based library for hardware-efficient implementations of
+  linear attention mechanism.
+\newblock \url{https://github.com/fla-org/flash-linear-attention}.
+
+\end{thebibliography}
